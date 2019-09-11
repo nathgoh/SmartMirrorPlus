@@ -1,4 +1,4 @@
 # SmartMirrorPlus
 ```
-Develop IOT smart mirror device using CircuitPython
+Develop IoT smart mirror device using CircuitPython
 ``` 
