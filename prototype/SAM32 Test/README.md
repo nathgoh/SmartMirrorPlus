@@ -1,1 +1,3 @@
-![Research Poster](https://github.com/nathgoh/SESUR/blob/master/Research%20Poster%20-%20SESUR.jpg)
+## SAM32 Prototype Sensor Testing
+
+![SAM32 Prototype](https://github.com/nathgoh/SmartMirrorPlus/blob/master/prototype/IMG_20190911_103638.jpg)
