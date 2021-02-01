@@ -1,5 +1,5 @@
 # SmartMirrorPlus
-## Cortney Weints, Nathaniel Goenawan, Sheikh Srijon
+## Cortney Weints, Nathaniel Goh, Sheikh Srijon
 ```
 Develop IoT smart mirror device using Adafruit hardware and CircuitPython
 ``` 
